@@ -31,7 +31,7 @@ json_dicts = json.loads(json_str)['features']
 #    'Holc_Grade': [], grades for each district
 #    'Holc_Color': [], appropriate color for each district
 #    'name': [], the name of the district (numbered)
- #   'Qualitative Description': [], a qualitative, text description called Section 8 in the json file for each district.
+#    'Qualitative Description': [], a qualitative, text description called Section 8 in the json file for each district.
 #}
 
 #### some districts are non-contiguous – in this case we take only the first set of coordinates.
